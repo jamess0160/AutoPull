@@ -1,0 +1,17 @@
+{
+  "name": "autopull",
+  "version": "1.0.0",
+  "description": "Projeto para fazer o pull automatico do backend do framework web bti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
